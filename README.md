@@ -1,10 +1,8 @@
-# Flask + ReactJS + MySQL Todo List
+# Flask + ReactJS + Machin Learning
 
-![ReactJS Todo](../screenshots/react-todo.PNG)
-#
-![ReactJS Todo](../screenshots/react-todo2.PNG)
+
 
 
 ## Setup
 
-Manually clone the repo and then run `npm install`.
+Manually clone the repo and then run `yarn  install` Or 'npm install'.
