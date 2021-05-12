@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.9.1",
     "@react-css/flex": "^1.2.1",
     "axios": "^0.18.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "es-dirname": "^0.1.0",
     "ink": "^3.0.0",
     "ink-box": "^1.0.0",
